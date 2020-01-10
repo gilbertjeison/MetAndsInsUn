@@ -18,7 +18,7 @@ namespace MetAndsInsUn
     public class Startup
     {
         private string url_dev = "http://localhost:5093/";
-        private string url_loc = "http://localhost/identity";
+        private string url_loc = "http://localhost/identity/";
         private string url_prod = "http://appmtto7-001-site4.itempurl.com";
         string origin_1 = "http://metinsman.digitoolsunilever.com";
 
