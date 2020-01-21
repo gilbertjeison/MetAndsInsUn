@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GilbertJeisonPerlaza\\Source\\Repos\\gilbertjeison\\Metins\\IdentityServer\\IdentityServer.csproj": {}
+    "C:\\Publish files\\MetAndsInsUn\\IdentityServer\\IdentityServer.csproj": {}
   },
   "projects": {
-    "D:\\GilbertJeisonPerlaza\\Source\\Repos\\gilbertjeison\\Metins\\IdentityServer\\IdentityServer.csproj": {
+    "C:\\Publish files\\MetAndsInsUn\\IdentityServer\\IdentityServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GilbertJeisonPerlaza\\Source\\Repos\\gilbertjeison\\Metins\\IdentityServer\\IdentityServer.csproj",
+        "projectUniqueName": "C:\\Publish files\\MetAndsInsUn\\IdentityServer\\IdentityServer.csproj",
         "projectName": "IdentityServer",
-        "projectPath": "D:\\GilbertJeisonPerlaza\\Source\\Repos\\gilbertjeison\\Metins\\IdentityServer\\IdentityServer.csproj",
-        "packagesPath": "C:\\Users\\GilbertJeisonPerlaza\\.nuget\\packages\\",
-        "outputPath": "D:\\GilbertJeisonPerlaza\\Source\\Repos\\gilbertjeison\\Metins\\IdentityServer\\obj\\",
+        "projectPath": "C:\\Publish files\\MetAndsInsUn\\IdentityServer\\IdentityServer.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Publish files\\MetAndsInsUn\\IdentityServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\GilbertJeisonPerlaza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -90,7 +89,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

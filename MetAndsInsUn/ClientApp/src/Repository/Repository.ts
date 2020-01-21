@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseDomain = 'http://localhost:5002';
+const baseDomain = 'http://localhost:5000';
 const baseDomain_loc = 'http://localhost/metins';
 const baseDomainProd = 'http://metinsman.digitoolsunilever.com';
 
