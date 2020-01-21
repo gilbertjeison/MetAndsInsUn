@@ -330,3 +330,1133 @@
 2020-01-06 12:00:50.887 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
 2020-01-06 12:00:50.887 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
 2020-01-06 12:00:50.887 -05:00 [DBG] Rendering check session result
+2020-01-16 09:41:17.947 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-16 09:41:18.141 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-16 09:41:18.146 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-16 09:41:18.146 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-16 09:41:18.146 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-16 09:41:18.146 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-16 09:41:18.146 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-16 09:43:26.785 -05:00 [DBG] Login Url: /Account/Login
+2020-01-16 09:43:26.790 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-16 09:43:26.790 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-16 09:43:26.790 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-16 09:43:26.790 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-16 09:43:26.790 -05:00 [DBG] Error Url: /home/error
+2020-01-16 09:43:26.790 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-17 23:29:09.245 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-17 23:29:09.363 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-17 23:29:09.366 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-17 23:29:09.366 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-17 23:29:09.366 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-17 23:29:09.366 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-17 23:29:09.367 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-17 23:31:06.434 -05:00 [DBG] Login Url: /Account/Login
+2020-01-17 23:31:06.436 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-17 23:31:06.437 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-17 23:31:06.437 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-17 23:31:06.437 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-17 23:31:06.437 -05:00 [DBG] Error Url: /home/error
+2020-01-17 23:31:06.437 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-17 23:38:58.972 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-17 23:38:59.033 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-17 23:38:59.038 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-17 23:38:59.038 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-17 23:38:59.038 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-17 23:38:59.038 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-17 23:38:59.039 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-17 23:39:43.558 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-17 23:39:43.629 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-17 23:39:43.633 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-17 23:39:43.634 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-17 23:39:43.634 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-17 23:39:43.634 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-17 23:39:43.634 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-17 23:52:45.058 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-17 23:52:45.111 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-17 23:52:45.114 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-17 23:52:45.114 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-17 23:52:45.114 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-17 23:52:45.114 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-17 23:52:45.115 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-17 23:53:26.128 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-17 23:53:26.135 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is not allowed
+2020-01-17 23:53:26.135 -05:00 [WRN] CorsPolicyService did not allow origin: http://localhost:8082
+2020-01-17 23:53:26.223 -05:00 [DBG] Login Url: /Account/Login
+2020-01-17 23:53:26.223 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-17 23:53:26.223 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-17 23:53:26.223 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-17 23:53:26.223 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-17 23:53:26.223 -05:00 [DBG] Error Url: /home/error
+2020-01-17 23:53:26.223 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-17 23:53:26.257 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-17 23:53:26.261 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-17 23:53:26.262 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-17 23:53:26.267 -05:00 [DBG] Start discovery request
+2020-01-17 23:53:49.023 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-17 23:53:49.031 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-17 23:53:49.034 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-17 23:53:49.034 -05:00 [DBG] Start discovery request
+2020-01-17 23:56:29.586 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-17 23:56:29.637 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-17 23:56:29.642 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-17 23:56:29.642 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-17 23:56:29.642 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-17 23:56:29.642 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-17 23:56:29.642 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-17 23:57:39.814 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-17 23:57:39.823 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-17 23:57:39.823 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-17 23:57:39.917 -05:00 [DBG] Login Url: /Account/Login
+2020-01-17 23:57:39.918 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-17 23:57:39.918 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-17 23:57:39.918 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-17 23:57:39.918 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-17 23:57:39.918 -05:00 [DBG] Error Url: /home/error
+2020-01-17 23:57:39.918 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-17 23:57:39.954 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-17 23:57:39.958 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-17 23:57:39.958 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-17 23:57:39.980 -05:00 [DBG] Start discovery request
+2020-01-17 23:57:40.097 -05:00 [DBG] Request path /connect/authorize matched to endpoint type Authorize
+2020-01-17 23:57:40.114 -05:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeEndpoint
+2020-01-17 23:57:40.115 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeEndpoint for /connect/authorize
+2020-01-17 23:57:40.120 -05:00 [DBG] Start authorize request
+2020-01-17 23:57:40.132 -05:00 [DBG] No user present in authorize request
+2020-01-17 23:57:40.137 -05:00 [DBG] Start authorize request protocol validation
+2020-01-17 23:57:40.164 -05:00 [DBG] client configuration validation for client js succeeded.
+2020-01-17 23:57:40.240 -05:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2020-01-17 23:57:40.282 -05:00 [INF] ValidatedAuthorizeRequest
+{"ClientId":"js","ClientName":"JavaScript Client","RedirectUri":"http://localhost:8082/callback","AllowedRedirectUris":["http://localhost:8082/callback","http://localhost:8082/static/silent-renew.html"],"SubjectId":"anonymous","ResponseType":"id_token token","ResponseMode":"fragment","GrantType":"implicit","RequestedScopes":"openid profile api1","State":"dcfcf0032f1741e8a36de38214c5b86b","UiLocales":null,"Nonce":"ec92881c1b7844e282072451d5565d36","AuthenticationContextReferenceClasses":null,"DisplayMode":null,"PromptMode":null,"MaxAge":null,"LoginHint":null,"SessionId":null,"Raw":{"client_id":"js","redirect_uri":"http://localhost:8082/callback","response_type":"id_token token","scope":"openid profile api1","state":"dcfcf0032f1741e8a36de38214c5b86b","nonce":"ec92881c1b7844e282072451d5565d36"},"$type":"AuthorizeRequestValidationLog"}
+2020-01-17 23:57:40.304 -05:00 [INF] Showing login: User is not authenticated
+2020-01-17 23:57:40.513 -05:00 [DBG] Start authorize request protocol validation
+2020-01-17 23:57:40.514 -05:00 [DBG] client configuration validation for client js succeeded.
+2020-01-17 23:57:40.514 -05:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2020-01-17 23:57:40.517 -05:00 [DBG] client configuration validation for client js succeeded.
+2020-01-17 23:57:42.286 -05:00 [DBG] CORS request made for path: /Account/Login from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-01-17 23:57:42.333 -05:00 [DBG] Start authorize request protocol validation
+2020-01-17 23:57:42.334 -05:00 [DBG] client configuration validation for client js succeeded.
+2020-01-17 23:57:42.334 -05:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2020-01-17 23:57:42.356 -05:00 [DBG] Augmenting SignInContext
+2020-01-17 23:57:42.360 -05:00 [DBG] Adding idp claim with value: local
+2020-01-17 23:57:42.360 -05:00 [DBG] Adding amr claim with value: pwd
+2020-01-17 23:57:42.376 -05:00 [INF] AuthenticationScheme: idsrv signed in.
+2020-01-17 23:57:42.379 -05:00 [DBG] client configuration validation for client js succeeded.
+2020-01-17 23:57:42.397 -05:00 [DBG] Request path /connect/authorize/callback matched to endpoint type Authorize
+2020-01-17 23:57:42.398 -05:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeCallbackEndpoint
+2020-01-17 23:57:42.398 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeCallbackEndpoint for /connect/authorize/callback
+2020-01-17 23:57:42.406 -05:00 [DBG] Start authorize callback request
+2020-01-17 23:57:42.411 -05:00 [DBG] User in authorize request: 1
+2020-01-17 23:57:42.412 -05:00 [DBG] Start authorize request protocol validation
+2020-01-17 23:57:42.412 -05:00 [DBG] client configuration validation for client js succeeded.
+2020-01-17 23:57:42.412 -05:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2020-01-17 23:57:42.412 -05:00 [INF] ValidatedAuthorizeRequest
+{"ClientId":"js","ClientName":"JavaScript Client","RedirectUri":"http://localhost:8082/callback","AllowedRedirectUris":["http://localhost:8082/callback","http://localhost:8082/static/silent-renew.html"],"SubjectId":"1","ResponseType":"id_token token","ResponseMode":"fragment","GrantType":"implicit","RequestedScopes":"openid profile api1","State":"dcfcf0032f1741e8a36de38214c5b86b","UiLocales":null,"Nonce":"ec92881c1b7844e282072451d5565d36","AuthenticationContextReferenceClasses":null,"DisplayMode":null,"PromptMode":null,"MaxAge":null,"LoginHint":null,"SessionId":"0649348b0291dcfc8134934aa00540dd","Raw":{"client_id":"js","redirect_uri":"http://localhost:8082/callback","response_type":"id_token token","scope":"openid profile api1","state":"dcfcf0032f1741e8a36de38214c5b86b","nonce":"ec92881c1b7844e282072451d5565d36"},"$type":"AuthorizeRequestValidationLog"}
+2020-01-17 23:57:42.414 -05:00 [DBG] IsActive called from: AuthorizeEndpoint
+2020-01-17 23:57:42.425 -05:00 [DBG] Client is configured to not require consent, no consent is required
+2020-01-17 23:57:42.433 -05:00 [DBG] Creating Implicit Flow response.
+2020-01-17 23:57:42.444 -05:00 [DBG] Getting claims for access token for client: js
+2020-01-17 23:57:42.446 -05:00 [DBG] Getting claims for access token for subject: 1
+2020-01-17 23:57:42.450 -05:00 [DBG] Get profile called for subject 1 from client JavaScript Client with claim types [] via ClaimsProviderAccessToken
+2020-01-17 23:57:42.451 -05:00 [DBG] Issued claims: []
+2020-01-17 23:57:42.564 -05:00 [DBG] Getting claims for identity token for subject: 1 and client: js
+2020-01-17 23:57:42.564 -05:00 [DBG] In addition to an id_token, an access_token was requested. No claims other than sub are included in the id_token. To obtain more user claims, either use the user info endpoint or set AlwaysIncludeUserClaimsInIdToken on the client configuration.
+2020-01-17 23:57:42.576 -05:00 [INF] Authorize endpoint response
+{"SubjectId":"1","ClientId":"js","RedirectUri":"http://localhost:8082/callback","State":"dcfcf0032f1741e8a36de38214c5b86b","Scope":"openid profile api1","Error":null,"ErrorDescription":null,"$type":"AuthorizeResponseLog"}
+2020-01-17 23:57:42.599 -05:00 [DBG] Augmenting SignInContext
+2020-01-17 23:57:42.599 -05:00 [INF] AuthenticationScheme: idsrv signed in.
+2020-01-17 23:57:43.143 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-17 23:57:43.143 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-17 23:57:43.143 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-17 23:57:43.143 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-17 23:57:43.143 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-17 23:57:43.143 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-17 23:57:43.144 -05:00 [DBG] Start discovery request
+2020-01-17 23:57:43.174 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration/jwks from origin: http://localhost:8082
+2020-01-17 23:57:43.174 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-17 23:57:43.174 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-17 23:57:43.174 -05:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2020-01-17 23:57:43.175 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2020-01-17 23:57:43.175 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2020-01-17 23:57:43.192 -05:00 [DBG] Start key discovery request
+2020-01-17 23:57:43.244 -05:00 [DBG] CORS request made for path: /connect/userinfo from origin: http://localhost:8082
+2020-01-17 23:57:43.244 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-17 23:57:43.244 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-17 23:57:43.251 -05:00 [DBG] CORS request made for path: /connect/userinfo from origin: http://localhost:8082
+2020-01-17 23:57:43.252 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-17 23:57:43.252 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-17 23:57:43.252 -05:00 [DBG] Request path /connect/userinfo matched to endpoint type Userinfo
+2020-01-17 23:57:43.255 -05:00 [DBG] Endpoint enabled: Userinfo, successfully created handler: IdentityServer4.Endpoints.UserInfoEndpoint
+2020-01-17 23:57:43.255 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.UserInfoEndpoint for /connect/userinfo
+2020-01-17 23:57:43.263 -05:00 [DBG] Start userinfo request
+2020-01-17 23:57:43.268 -05:00 [DBG] Bearer token found in header
+2020-01-17 23:57:43.337 -05:00 [DBG] client configuration validation for client js succeeded.
+2020-01-17 23:57:43.341 -05:00 [DBG] client configuration validation for client js succeeded.
+2020-01-17 23:57:43.341 -05:00 [DBG] IsActive called from: AccessTokenValidation
+2020-01-17 23:57:43.342 -05:00 [DBG] Calling into custom token validator: IdentityServer4.Validation.DefaultCustomTokenValidator
+2020-01-17 23:57:43.343 -05:00 [DBG] Token validation success
+{"ClientId":null,"ClientName":null,"ValidateLifetime":true,"AccessTokenType":"Jwt","ExpectedScope":"openid","TokenHandle":null,"JwtId":null,"Claims":{"nbf":1579323462,"exp":1580223462,"iss":"http://localhost:5093","aud":["http://localhost:5093/resources","api1"],"client_id":"js","sub":"1","auth_time":1579323462,"idp":"local","scope":["openid","profile","api1"],"amr":"pwd"},"$type":"TokenValidationLog"}
+2020-01-17 23:57:43.344 -05:00 [DBG] IsActive called from: UserInfoRequestValidation
+2020-01-17 23:57:43.349 -05:00 [DBG] Creating userinfo response
+2020-01-17 23:57:43.353 -05:00 [DBG] Scopes in access token: openid profile api1
+2020-01-17 23:57:43.355 -05:00 [DBG] Scopes in access token: openid profile api1
+2020-01-17 23:57:43.358 -05:00 [DBG] Requested claim types: sub name family_name given_name middle_name nickname preferred_username profile picture website gender birthdate zoneinfo locale updated_at
+2020-01-17 23:57:43.358 -05:00 [DBG] Scopes in access token: openid profile api1
+2020-01-17 23:57:43.358 -05:00 [DBG] Get profile called for subject 1 from client JavaScript Client with claim types ["sub","name","family_name","given_name","middle_name","nickname","preferred_username","profile","picture","website","gender","birthdate","zoneinfo","locale","updated_at"] via UserInfoEndpoint
+2020-01-17 23:57:43.359 -05:00 [DBG] Issued claims: ["name","website"]
+2020-01-17 23:57:43.359 -05:00 [INF] Profile service returned the following claim types: name website
+2020-01-17 23:57:43.359 -05:00 [DBG] End userinfo request
+2020-01-17 23:57:43.370 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-17 23:57:43.371 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-17 23:57:43.371 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-17 23:57:43.372 -05:00 [DBG] Rendering check session result
+2020-01-17 23:59:45.811 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-17 23:59:45.815 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-17 23:59:45.816 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-17 23:59:45.822 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-17 23:59:45.822 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-17 23:59:45.822 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-17 23:59:45.822 -05:00 [DBG] Start discovery request
+2020-01-17 23:59:45.878 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-17 23:59:45.878 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-17 23:59:45.878 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-17 23:59:45.878 -05:00 [DBG] Rendering check session result
+2020-01-18 00:00:11.863 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 00:00:11.864 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 00:00:11.864 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 00:00:11.864 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 00:00:11.864 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 00:00:11.864 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 00:00:11.864 -05:00 [DBG] Start discovery request
+2020-01-18 00:00:12.026 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 00:00:12.027 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 00:00:12.027 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 00:00:12.027 -05:00 [DBG] Rendering check session result
+2020-01-18 00:00:26.232 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 00:00:26.232 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 00:00:26.232 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 00:00:26.232 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 00:00:26.233 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 00:00:26.233 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 00:00:26.233 -05:00 [DBG] Start discovery request
+2020-01-18 00:00:26.250 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 00:00:26.250 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 00:00:26.250 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 00:00:26.250 -05:00 [DBG] Rendering check session result
+2020-01-18 00:01:30.866 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 00:01:30.867 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 00:01:30.867 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 00:01:30.867 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 00:01:30.868 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 00:01:30.868 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 00:01:30.868 -05:00 [DBG] Start discovery request
+2020-01-18 00:01:30.891 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 00:01:30.891 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 00:01:30.891 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 00:01:30.891 -05:00 [DBG] Rendering check session result
+2020-01-18 00:01:33.947 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 00:01:33.947 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 00:01:33.950 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 00:01:33.951 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 00:01:33.951 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 00:01:33.951 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 00:01:33.951 -05:00 [DBG] Start discovery request
+2020-01-18 00:01:34.017 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 00:01:34.018 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 00:01:34.018 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 00:01:34.018 -05:00 [DBG] Rendering check session result
+2020-01-18 00:01:42.896 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 00:01:42.896 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 00:01:42.897 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 00:01:42.897 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 00:01:42.897 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 00:01:42.897 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 00:01:42.897 -05:00 [DBG] Start discovery request
+2020-01-18 00:01:42.913 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 00:01:42.913 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 00:01:42.913 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 00:01:42.913 -05:00 [DBG] Rendering check session result
+2020-01-18 00:03:54.380 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 00:03:54.380 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 00:03:54.380 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 00:03:54.380 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 00:03:54.380 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 00:03:54.380 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 00:03:54.380 -05:00 [DBG] Start discovery request
+2020-01-18 00:03:54.557 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 00:03:54.557 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 00:03:54.558 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 00:03:54.558 -05:00 [DBG] Rendering check session result
+2020-01-18 00:04:01.442 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 00:04:01.442 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 00:04:01.442 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 00:04:01.442 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 00:04:01.442 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 00:04:01.442 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 00:04:01.442 -05:00 [DBG] Start discovery request
+2020-01-18 00:04:01.654 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 00:04:01.654 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 00:04:01.654 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 00:04:01.654 -05:00 [DBG] Rendering check session result
+2020-01-18 00:04:42.223 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 00:04:42.223 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 00:04:42.223 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 00:04:42.223 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 00:04:42.223 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 00:04:42.223 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 00:04:42.223 -05:00 [DBG] Start discovery request
+2020-01-18 00:04:42.397 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 00:04:42.397 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 00:04:42.397 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 00:04:42.397 -05:00 [DBG] Rendering check session result
+2020-01-18 00:05:01.925 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 00:05:01.925 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 00:05:01.925 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 00:05:01.926 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 00:05:01.926 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 00:05:01.926 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 00:05:01.926 -05:00 [DBG] Start discovery request
+2020-01-18 00:05:02.085 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 00:05:02.085 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 00:05:02.085 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 00:05:02.085 -05:00 [DBG] Rendering check session result
+2020-01-18 00:05:24.603 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 00:05:24.603 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 00:05:24.603 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 00:05:24.603 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 00:05:24.603 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 00:05:24.603 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 00:05:24.603 -05:00 [DBG] Start discovery request
+2020-01-18 00:05:24.767 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 00:05:24.768 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 00:05:24.768 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 00:05:24.768 -05:00 [DBG] Rendering check session result
+2020-01-18 00:05:43.133 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 00:05:43.133 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 00:05:43.133 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 00:05:43.133 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 00:05:43.133 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 00:05:43.134 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 00:05:43.134 -05:00 [DBG] Start discovery request
+2020-01-18 00:05:43.289 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 00:05:43.289 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 00:05:43.289 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 00:05:43.289 -05:00 [DBG] Rendering check session result
+2020-01-18 00:05:49.771 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 00:05:49.771 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 00:05:49.771 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 00:05:49.771 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 00:05:49.771 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 00:05:49.771 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 00:05:49.771 -05:00 [DBG] Start discovery request
+2020-01-18 00:05:49.932 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 00:05:49.932 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 00:05:49.933 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 00:05:49.933 -05:00 [DBG] Rendering check session result
+2020-01-18 00:59:05.463 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-18 00:59:05.509 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-18 00:59:05.512 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-18 00:59:05.513 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-18 00:59:05.513 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-18 00:59:05.513 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-18 00:59:05.513 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-18 00:59:28.167 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 00:59:28.175 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 00:59:28.175 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 00:59:28.248 -05:00 [DBG] Login Url: /Account/Login
+2020-01-18 00:59:28.248 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-18 00:59:28.248 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-18 00:59:28.248 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-18 00:59:28.248 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-18 00:59:28.248 -05:00 [DBG] Error Url: /home/error
+2020-01-18 00:59:28.248 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-18 00:59:28.277 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 00:59:28.280 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 00:59:28.280 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 00:59:28.285 -05:00 [DBG] Start discovery request
+2020-01-18 00:59:28.447 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 00:59:28.448 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 00:59:28.448 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 00:59:28.449 -05:00 [DBG] Rendering check session result
+2020-01-18 01:04:43.667 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-18 01:04:43.718 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-18 01:04:43.721 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-18 01:04:43.721 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-18 01:04:43.721 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-18 01:04:43.721 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-18 01:04:43.721 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-18 01:07:01.214 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-18 01:07:01.276 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-18 01:07:01.284 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-18 01:07:01.284 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-18 01:07:01.284 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-18 01:07:01.284 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-18 01:07:01.285 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-18 01:07:44.778 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 01:07:44.787 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 01:07:44.787 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 01:07:44.868 -05:00 [DBG] Login Url: /Account/Login
+2020-01-18 01:07:44.869 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-18 01:07:44.869 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-18 01:07:44.869 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-18 01:07:44.869 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-18 01:07:44.869 -05:00 [DBG] Error Url: /home/error
+2020-01-18 01:07:44.869 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-18 01:07:44.896 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 01:07:44.904 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 01:07:44.904 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 01:07:44.910 -05:00 [DBG] Start discovery request
+2020-01-18 01:07:45.058 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 01:07:45.058 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 01:07:45.059 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 01:07:45.060 -05:00 [DBG] Rendering check session result
+2020-01-18 01:22:05.380 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 01:22:05.380 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 01:22:05.380 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 01:22:05.384 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 01:22:05.384 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 01:22:05.384 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 01:22:05.385 -05:00 [DBG] Start discovery request
+2020-01-18 01:22:05.564 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 01:22:05.564 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 01:22:05.564 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 01:22:05.564 -05:00 [DBG] Rendering check session result
+2020-01-18 01:28:17.827 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-18 01:28:17.919 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-18 01:28:17.925 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-18 01:28:17.925 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-18 01:28:17.926 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-18 01:28:17.926 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-18 01:28:17.926 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-18 01:29:44.114 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 01:29:44.124 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 01:29:44.124 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 01:29:44.195 -05:00 [DBG] Login Url: /Account/Login
+2020-01-18 01:29:44.196 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-18 01:29:44.196 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-18 01:29:44.196 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-18 01:29:44.196 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-18 01:29:44.196 -05:00 [DBG] Error Url: /home/error
+2020-01-18 01:29:44.196 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-18 01:29:44.225 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 01:29:44.230 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 01:29:44.230 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 01:29:44.241 -05:00 [DBG] Start discovery request
+2020-01-18 01:29:44.751 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 01:29:44.753 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 01:29:44.753 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 01:29:44.755 -05:00 [DBG] Rendering check session result
+2020-01-18 01:31:55.029 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-18 01:31:55.127 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-18 01:31:55.131 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-18 01:31:55.131 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-18 01:31:55.131 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-18 01:31:55.131 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-18 01:31:55.131 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-18 01:33:00.135 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 01:33:00.157 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 01:33:00.158 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 01:33:00.311 -05:00 [DBG] Login Url: /Account/Login
+2020-01-18 01:33:00.311 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-18 01:33:00.311 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-18 01:33:00.311 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-18 01:33:00.311 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-18 01:33:00.312 -05:00 [DBG] Error Url: /home/error
+2020-01-18 01:33:00.312 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-18 01:33:00.370 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 01:33:00.380 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 01:33:00.381 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 01:33:00.396 -05:00 [DBG] Start discovery request
+2020-01-18 01:33:01.472 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 01:33:01.473 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 01:33:01.473 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 01:33:01.487 -05:00 [DBG] Rendering check session result
+2020-01-18 01:37:06.043 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 01:37:06.043 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 01:37:06.043 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 01:37:06.043 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 01:37:06.043 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 01:37:06.044 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 01:37:06.044 -05:00 [DBG] Start discovery request
+2020-01-18 01:37:06.282 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 01:37:06.282 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 01:37:06.282 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 01:37:06.282 -05:00 [DBG] Rendering check session result
+2020-01-18 01:37:41.571 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-18 01:37:41.646 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-18 01:37:41.653 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-18 01:37:41.653 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-18 01:37:41.653 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-18 01:37:41.653 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-18 01:37:41.654 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-18 01:38:44.597 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 01:38:44.609 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 01:38:44.609 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 01:38:44.712 -05:00 [DBG] Login Url: /Account/Login
+2020-01-18 01:38:44.713 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-18 01:38:44.713 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-18 01:38:44.713 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-18 01:38:44.713 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-18 01:38:44.713 -05:00 [DBG] Error Url: /home/error
+2020-01-18 01:38:44.713 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-18 01:38:44.752 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 01:38:44.757 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 01:38:44.758 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 01:38:44.765 -05:00 [DBG] Start discovery request
+2020-01-18 01:38:44.884 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 01:38:44.885 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 01:38:44.885 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 01:38:44.887 -05:00 [DBG] Rendering check session result
+2020-01-18 01:39:57.429 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 01:39:57.429 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 01:39:57.429 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 01:39:57.429 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 01:39:57.430 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 01:39:57.430 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 01:39:57.430 -05:00 [DBG] Start discovery request
+2020-01-18 01:39:57.677 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 01:39:57.677 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 01:39:57.677 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 01:39:57.678 -05:00 [DBG] Rendering check session result
+2020-01-18 01:41:34.818 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 01:41:34.818 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 01:41:34.818 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 01:41:34.819 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 01:41:34.819 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 01:41:34.819 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 01:41:34.819 -05:00 [DBG] Start discovery request
+2020-01-18 01:41:34.990 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 01:41:34.991 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 01:41:34.991 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 01:41:34.991 -05:00 [DBG] Rendering check session result
+2020-01-18 01:41:45.896 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-18 01:41:45.957 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-18 01:41:45.962 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-18 01:41:45.962 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-18 01:41:45.962 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-18 01:41:45.962 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-18 01:41:45.962 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-18 01:42:43.639 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 01:42:43.650 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 01:42:43.650 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 01:42:43.745 -05:00 [DBG] Login Url: /Account/Login
+2020-01-18 01:42:43.745 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-18 01:42:43.745 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-18 01:42:43.745 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-18 01:42:43.745 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-18 01:42:43.745 -05:00 [DBG] Error Url: /home/error
+2020-01-18 01:42:43.745 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-18 01:42:43.772 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 01:42:43.779 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 01:42:43.780 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 01:42:43.785 -05:00 [DBG] Start discovery request
+2020-01-18 01:42:43.937 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 01:42:43.938 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 01:42:43.938 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 01:42:43.940 -05:00 [DBG] Rendering check session result
+2020-01-18 01:43:27.450 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 01:43:27.450 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 01:43:27.450 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 01:43:27.456 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 01:43:27.457 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 01:43:27.457 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 01:43:27.457 -05:00 [DBG] Start discovery request
+2020-01-18 01:43:27.630 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 01:43:27.630 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 01:43:27.630 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 01:43:27.631 -05:00 [DBG] Rendering check session result
+2020-01-18 01:44:09.703 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 01:44:09.704 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 01:44:09.704 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 01:44:09.704 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 01:44:09.704 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 01:44:09.704 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 01:44:09.705 -05:00 [DBG] Start discovery request
+2020-01-18 01:44:09.971 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 01:44:09.971 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 01:44:09.971 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 01:44:09.971 -05:00 [DBG] Rendering check session result
+2020-01-18 01:45:32.156 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 01:45:32.161 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 01:45:32.161 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 01:45:32.161 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 01:45:32.161 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 01:45:32.161 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 01:45:32.161 -05:00 [DBG] Start discovery request
+2020-01-18 01:45:32.340 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 01:45:32.340 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 01:45:32.340 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 01:45:32.340 -05:00 [DBG] Rendering check session result
+2020-01-18 01:46:02.749 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 01:46:02.749 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 01:46:02.749 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 01:46:02.749 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 01:46:02.749 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 01:46:02.749 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 01:46:02.749 -05:00 [DBG] Start discovery request
+2020-01-18 01:46:02.959 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 01:46:02.960 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 01:46:02.960 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 01:46:02.960 -05:00 [DBG] Rendering check session result
+2020-01-18 01:46:21.097 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-18 01:46:21.184 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-18 01:46:21.190 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-18 01:46:21.190 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-18 01:46:21.190 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-18 01:46:21.190 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-18 01:46:21.190 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-18 01:47:17.771 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 01:47:17.781 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 01:47:17.781 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 01:47:17.862 -05:00 [DBG] Login Url: /Account/Login
+2020-01-18 01:47:17.863 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-18 01:47:17.863 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-18 01:47:17.863 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-18 01:47:17.863 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-18 01:47:17.863 -05:00 [DBG] Error Url: /home/error
+2020-01-18 01:47:17.863 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-18 01:47:17.895 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 01:47:17.900 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 01:47:17.901 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 01:47:17.908 -05:00 [DBG] Start discovery request
+2020-01-18 01:47:18.137 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 01:47:18.138 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 01:47:18.138 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 01:47:18.140 -05:00 [DBG] Rendering check session result
+2020-01-18 01:49:25.439 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-18 01:49:25.493 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-18 01:49:25.498 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-18 01:49:25.498 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-18 01:49:25.498 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-18 01:49:25.498 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-18 01:49:25.498 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-18 01:51:09.777 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 01:51:09.787 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 01:51:09.787 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 01:51:09.867 -05:00 [DBG] Login Url: /Account/Login
+2020-01-18 01:51:09.867 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-18 01:51:09.868 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-18 01:51:09.868 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-18 01:51:09.868 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-18 01:51:09.868 -05:00 [DBG] Error Url: /home/error
+2020-01-18 01:51:09.868 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-18 01:51:09.896 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 01:51:09.902 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 01:51:09.902 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 01:51:09.908 -05:00 [DBG] Start discovery request
+2020-01-18 01:51:10.317 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 01:51:10.318 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 01:51:10.318 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 01:51:10.320 -05:00 [DBG] Rendering check session result
+2020-01-18 01:51:22.051 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 01:51:22.051 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 01:51:22.051 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 01:51:22.052 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 01:51:22.052 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 01:51:22.052 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 01:51:22.052 -05:00 [DBG] Start discovery request
+2020-01-18 01:51:22.069 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 01:51:22.070 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 01:51:22.070 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 01:51:22.071 -05:00 [DBG] Rendering check session result
+2020-01-18 01:51:59.203 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-18 01:51:59.268 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-18 01:51:59.272 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-18 01:51:59.272 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-18 01:51:59.273 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-18 01:51:59.273 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-18 01:51:59.273 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-18 01:52:57.394 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 01:52:57.404 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 01:52:57.404 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 01:52:57.487 -05:00 [DBG] Login Url: /Account/Login
+2020-01-18 01:52:57.487 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-18 01:52:57.487 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-18 01:52:57.487 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-18 01:52:57.487 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-18 01:52:57.487 -05:00 [DBG] Error Url: /home/error
+2020-01-18 01:52:57.487 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-18 01:52:57.519 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 01:52:57.525 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 01:52:57.525 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 01:52:57.530 -05:00 [DBG] Start discovery request
+2020-01-18 01:52:58.020 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 01:52:58.021 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 01:52:58.022 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 01:52:58.024 -05:00 [DBG] Rendering check session result
+2020-01-18 01:53:14.356 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 01:53:14.356 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 01:53:14.356 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 01:53:14.357 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 01:53:14.358 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 01:53:14.358 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 01:53:14.359 -05:00 [DBG] Start discovery request
+2020-01-18 01:53:14.387 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 01:53:14.387 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 01:53:14.387 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 01:53:14.387 -05:00 [DBG] Rendering check session result
+2020-01-18 01:54:14.716 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-18 01:54:14.756 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-18 01:54:14.759 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-18 01:54:14.759 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-18 01:54:14.759 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-18 01:54:14.760 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-18 01:54:14.760 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-18 01:54:46.056 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-18 01:54:46.110 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-18 01:54:46.114 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-18 01:54:46.114 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-18 01:54:46.114 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-18 01:54:46.114 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-18 01:54:46.115 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-18 01:55:30.881 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-18 01:55:30.931 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-18 01:55:30.935 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-18 01:55:30.935 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-18 01:55:30.935 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-18 01:55:30.935 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-18 01:55:30.936 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-18 01:57:15.176 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-18 01:57:15.270 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-18 01:57:15.277 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-18 01:57:15.277 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-18 01:57:15.277 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-18 01:57:15.277 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-18 01:57:15.277 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-18 01:59:08.495 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 01:59:08.503 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 01:59:08.504 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 01:59:08.597 -05:00 [DBG] Login Url: /Account/Login
+2020-01-18 01:59:08.598 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-18 01:59:08.598 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-18 01:59:08.598 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-18 01:59:08.598 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-18 01:59:08.598 -05:00 [DBG] Error Url: /home/error
+2020-01-18 01:59:08.598 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-18 01:59:08.624 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 01:59:08.632 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 01:59:08.632 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 01:59:08.640 -05:00 [DBG] Start discovery request
+2020-01-18 01:59:09.102 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 01:59:09.102 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 01:59:09.102 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 01:59:09.105 -05:00 [DBG] Rendering check session result
+2020-01-18 01:59:25.578 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 01:59:25.578 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 01:59:25.578 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 01:59:25.579 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 01:59:25.579 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 01:59:25.579 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 01:59:25.579 -05:00 [DBG] Start discovery request
+2020-01-18 01:59:25.600 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 01:59:25.600 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 01:59:25.600 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 01:59:25.601 -05:00 [DBG] Rendering check session result
+2020-01-18 02:01:00.514 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-18 02:01:00.581 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-18 02:01:00.589 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-18 02:01:00.589 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-18 02:01:00.589 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-18 02:01:00.589 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-18 02:01:00.590 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-18 02:02:56.339 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-18 02:02:56.405 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-18 02:02:56.408 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-18 02:02:56.408 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-18 02:02:56.409 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-18 02:02:56.409 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-18 02:02:56.409 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-18 02:03:33.201 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 02:03:33.213 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 02:03:33.213 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 02:03:33.327 -05:00 [DBG] Login Url: /Account/Login
+2020-01-18 02:03:33.327 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-18 02:03:33.327 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-18 02:03:33.327 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-18 02:03:33.327 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-18 02:03:33.327 -05:00 [DBG] Error Url: /home/error
+2020-01-18 02:03:33.327 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-18 02:03:33.362 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 02:03:33.372 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 02:03:33.372 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 02:03:33.379 -05:00 [DBG] Start discovery request
+2020-01-18 02:03:34.009 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 02:03:34.009 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 02:03:34.010 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 02:03:34.013 -05:00 [DBG] Rendering check session result
+2020-01-18 02:03:50.013 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8082
+2020-01-18 02:03:50.013 -05:00 [DBG] Client list checked and origin: http://localhost:8082 is allowed
+2020-01-18 02:03:50.013 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:8082
+2020-01-18 02:03:50.014 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 02:03:50.014 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 02:03:50.014 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 02:03:50.014 -05:00 [DBG] Start discovery request
+2020-01-18 02:03:50.039 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-18 02:03:50.039 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-18 02:03:50.039 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-18 02:03:50.040 -05:00 [DBG] Rendering check session result
+2020-01-18 12:31:57.558 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-18 12:31:57.688 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-18 12:31:57.694 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-18 12:31:57.694 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-18 12:31:57.694 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-18 12:31:57.694 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-18 12:31:57.695 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-18 12:34:39.843 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8080
+2020-01-18 12:34:39.857 -05:00 [DBG] Client list checked and origin: http://localhost:8080 is not allowed
+2020-01-18 12:34:39.857 -05:00 [WRN] CorsPolicyService did not allow origin: http://localhost:8080
+2020-01-18 12:34:40.055 -05:00 [DBG] Login Url: /Account/Login
+2020-01-18 12:34:40.055 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-18 12:34:40.055 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-18 12:34:40.055 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-18 12:34:40.055 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-18 12:34:40.055 -05:00 [DBG] Error Url: /home/error
+2020-01-18 12:34:40.055 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-18 12:34:40.086 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-18 12:34:40.090 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-18 12:34:40.090 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-18 12:34:40.096 -05:00 [DBG] Start discovery request
+2020-01-18 12:59:01.650 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-18 12:59:01.720 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-18 12:59:01.724 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-18 12:59:01.724 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-18 12:59:01.724 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-18 12:59:01.724 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-18 12:59:01.725 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-18 13:00:17.332 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-18 13:00:17.380 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-18 13:00:17.385 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-18 13:00:17.385 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-18 13:00:17.385 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-18 13:00:17.386 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-18 13:00:17.386 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-21 07:44:21.058 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-21 07:44:21.192 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-21 07:44:21.196 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-21 07:44:21.196 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-21 07:44:21.196 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-21 07:44:21.197 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-21 07:44:21.197 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-21 07:48:36.548 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-21 07:48:36.636 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-21 07:48:36.644 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-21 07:48:36.644 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-21 07:48:36.644 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-21 07:48:36.644 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-21 07:48:36.645 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-21 07:49:30.764 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-21 07:49:30.830 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-21 07:49:30.834 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-21 07:49:30.834 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-21 07:49:30.834 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-21 07:49:30.834 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-21 07:49:30.835 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-21 07:50:59.698 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:8080
+2020-01-21 07:50:59.712 -05:00 [DBG] Client list checked and origin: http://localhost:8080 is not allowed
+2020-01-21 07:50:59.712 -05:00 [WRN] CorsPolicyService did not allow origin: http://localhost:8080
+2020-01-21 07:50:59.961 -05:00 [DBG] Login Url: /Account/Login
+2020-01-21 07:50:59.961 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-21 07:50:59.961 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-21 07:50:59.961 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-21 07:50:59.961 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-21 07:50:59.962 -05:00 [DBG] Error Url: /home/error
+2020-01-21 07:50:59.962 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-21 07:51:00.009 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-21 07:51:00.018 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-21 07:51:00.019 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-21 07:51:00.025 -05:00 [DBG] Start discovery request
+2020-01-21 07:52:06.046 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-21 07:52:06.121 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-21 07:52:06.128 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-21 07:52:06.129 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-21 07:52:06.129 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-21 07:52:06.129 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-21 07:52:06.129 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-21 07:52:46.303 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-21 07:52:46.355 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-21 07:52:46.360 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-21 07:52:46.360 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-21 07:52:46.360 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-21 07:52:46.360 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-21 07:52:46.360 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-21 07:53:25.139 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-21 07:53:25.193 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-21 07:53:25.198 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-21 07:53:25.198 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-21 07:53:25.198 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-21 07:53:25.198 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-21 07:53:25.198 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-21 07:55:03.417 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:5000
+2020-01-21 07:55:03.432 -05:00 [DBG] Client list checked and origin: http://localhost:5000 is not allowed
+2020-01-21 07:55:03.432 -05:00 [WRN] CorsPolicyService did not allow origin: http://localhost:5000
+2020-01-21 07:55:03.559 -05:00 [DBG] Login Url: /Account/Login
+2020-01-21 07:55:03.560 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-21 07:55:03.560 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-21 07:55:03.560 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-21 07:55:03.560 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-21 07:55:03.560 -05:00 [DBG] Error Url: /home/error
+2020-01-21 07:55:03.560 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-21 07:55:03.598 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-21 07:55:03.604 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-21 07:55:03.604 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-21 07:55:03.611 -05:00 [DBG] Start discovery request
+2020-01-21 07:57:20.810 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-21 07:57:20.863 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-21 07:57:20.867 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-21 07:57:20.867 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-21 07:57:20.868 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-21 07:57:20.868 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-21 07:57:20.868 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-21 07:59:28.178 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:5000
+2020-01-21 07:59:28.193 -05:00 [DBG] Client list checked and origin: http://localhost:5000 is allowed
+2020-01-21 07:59:28.193 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:5000
+2020-01-21 07:59:28.315 -05:00 [DBG] Login Url: /Account/Login
+2020-01-21 07:59:28.315 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-21 07:59:28.315 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-21 07:59:28.315 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-21 07:59:28.316 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-21 07:59:28.316 -05:00 [DBG] Error Url: /home/error
+2020-01-21 07:59:28.316 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-21 07:59:28.352 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-21 07:59:28.357 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-21 07:59:28.357 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-21 07:59:28.362 -05:00 [DBG] Start discovery request
+2020-01-21 07:59:28.469 -05:00 [DBG] Request path /connect/authorize matched to endpoint type Authorize
+2020-01-21 07:59:28.478 -05:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeEndpoint
+2020-01-21 07:59:28.479 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeEndpoint for /connect/authorize
+2020-01-21 07:59:28.486 -05:00 [DBG] Start authorize request
+2020-01-21 07:59:28.537 -05:00 [DBG] No user present in authorize request
+2020-01-21 07:59:28.544 -05:00 [DBG] Start authorize request protocol validation
+2020-01-21 07:59:28.571 -05:00 [DBG] client configuration validation for client js succeeded.
+2020-01-21 07:59:28.662 -05:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2020-01-21 07:59:28.718 -05:00 [INF] ValidatedAuthorizeRequest
+{"ClientId":"js","ClientName":"JavaScript Client","RedirectUri":"http://localhost:5000/callback","AllowedRedirectUris":["http://localhost:5000/callback","http://localhost:5000/static/silent-renew.html"],"SubjectId":"anonymous","ResponseType":"id_token token","ResponseMode":"fragment","GrantType":"implicit","RequestedScopes":"openid profile api1","State":"74958f493f6f4cd5a8bdf1cef1ef7993","UiLocales":null,"Nonce":"52aa220dd30949b59ca1bbe377b87209","AuthenticationContextReferenceClasses":null,"DisplayMode":null,"PromptMode":null,"MaxAge":null,"LoginHint":null,"SessionId":null,"Raw":{"client_id":"js","redirect_uri":"http://localhost:5000/callback","response_type":"id_token token","scope":"openid profile api1","state":"74958f493f6f4cd5a8bdf1cef1ef7993","nonce":"52aa220dd30949b59ca1bbe377b87209"},"$type":"AuthorizeRequestValidationLog"}
+2020-01-21 07:59:28.776 -05:00 [INF] Showing login: User is not authenticated
+2020-01-21 07:59:29.204 -05:00 [DBG] Start authorize request protocol validation
+2020-01-21 07:59:29.205 -05:00 [DBG] client configuration validation for client js succeeded.
+2020-01-21 07:59:29.206 -05:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2020-01-21 07:59:29.214 -05:00 [DBG] client configuration validation for client js succeeded.
+2020-01-21 07:59:31.334 -05:00 [DBG] CORS request made for path: /Account/Login from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-01-21 07:59:31.430 -05:00 [DBG] Start authorize request protocol validation
+2020-01-21 07:59:31.431 -05:00 [DBG] client configuration validation for client js succeeded.
+2020-01-21 07:59:31.431 -05:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2020-01-21 07:59:31.477 -05:00 [DBG] Augmenting SignInContext
+2020-01-21 07:59:31.485 -05:00 [DBG] Adding idp claim with value: local
+2020-01-21 07:59:31.485 -05:00 [DBG] Adding amr claim with value: pwd
+2020-01-21 07:59:31.510 -05:00 [INF] AuthenticationScheme: idsrv signed in.
+2020-01-21 07:59:31.513 -05:00 [DBG] client configuration validation for client js succeeded.
+2020-01-21 07:59:31.554 -05:00 [DBG] Request path /connect/authorize/callback matched to endpoint type Authorize
+2020-01-21 07:59:31.555 -05:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeCallbackEndpoint
+2020-01-21 07:59:31.555 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeCallbackEndpoint for /connect/authorize/callback
+2020-01-21 07:59:31.563 -05:00 [DBG] Start authorize callback request
+2020-01-21 07:59:31.569 -05:00 [DBG] User in authorize request: 1
+2020-01-21 07:59:31.569 -05:00 [DBG] Start authorize request protocol validation
+2020-01-21 07:59:31.569 -05:00 [DBG] client configuration validation for client js succeeded.
+2020-01-21 07:59:31.569 -05:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2020-01-21 07:59:31.570 -05:00 [INF] ValidatedAuthorizeRequest
+{"ClientId":"js","ClientName":"JavaScript Client","RedirectUri":"http://localhost:5000/callback","AllowedRedirectUris":["http://localhost:5000/callback","http://localhost:5000/static/silent-renew.html"],"SubjectId":"1","ResponseType":"id_token token","ResponseMode":"fragment","GrantType":"implicit","RequestedScopes":"openid profile api1","State":"74958f493f6f4cd5a8bdf1cef1ef7993","UiLocales":null,"Nonce":"52aa220dd30949b59ca1bbe377b87209","AuthenticationContextReferenceClasses":null,"DisplayMode":null,"PromptMode":null,"MaxAge":null,"LoginHint":null,"SessionId":"734e0e41e6e6e3802c964b6ff9541e95","Raw":{"client_id":"js","redirect_uri":"http://localhost:5000/callback","response_type":"id_token token","scope":"openid profile api1","state":"74958f493f6f4cd5a8bdf1cef1ef7993","nonce":"52aa220dd30949b59ca1bbe377b87209"},"$type":"AuthorizeRequestValidationLog"}
+2020-01-21 07:59:31.571 -05:00 [DBG] IsActive called from: AuthorizeEndpoint
+2020-01-21 07:59:31.589 -05:00 [DBG] Client is configured to not require consent, no consent is required
+2020-01-21 07:59:31.601 -05:00 [DBG] Creating Implicit Flow response.
+2020-01-21 07:59:31.625 -05:00 [DBG] Getting claims for access token for client: js
+2020-01-21 07:59:31.626 -05:00 [DBG] Getting claims for access token for subject: 1
+2020-01-21 07:59:31.634 -05:00 [DBG] Get profile called for subject 1 from client JavaScript Client with claim types [] via ClaimsProviderAccessToken
+2020-01-21 07:59:31.637 -05:00 [DBG] Issued claims: []
+2020-01-21 07:59:31.762 -05:00 [DBG] Getting claims for identity token for subject: 1 and client: js
+2020-01-21 07:59:31.762 -05:00 [DBG] In addition to an id_token, an access_token was requested. No claims other than sub are included in the id_token. To obtain more user claims, either use the user info endpoint or set AlwaysIncludeUserClaimsInIdToken on the client configuration.
+2020-01-21 07:59:31.775 -05:00 [INF] Authorize endpoint response
+{"SubjectId":"1","ClientId":"js","RedirectUri":"http://localhost:5000/callback","State":"74958f493f6f4cd5a8bdf1cef1ef7993","Scope":"openid profile api1","Error":null,"ErrorDescription":null,"$type":"AuthorizeResponseLog"}
+2020-01-21 07:59:31.793 -05:00 [DBG] Augmenting SignInContext
+2020-01-21 07:59:31.794 -05:00 [INF] AuthenticationScheme: idsrv signed in.
+2020-01-21 07:59:32.219 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:5000
+2020-01-21 07:59:32.219 -05:00 [DBG] Client list checked and origin: http://localhost:5000 is allowed
+2020-01-21 07:59:32.219 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:5000
+2020-01-21 07:59:32.219 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-21 07:59:32.220 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-21 07:59:32.220 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-21 07:59:32.220 -05:00 [DBG] Start discovery request
+2020-01-21 07:59:32.249 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration/jwks from origin: http://localhost:5000
+2020-01-21 07:59:32.249 -05:00 [DBG] Client list checked and origin: http://localhost:5000 is allowed
+2020-01-21 07:59:32.249 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:5000
+2020-01-21 07:59:32.249 -05:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2020-01-21 07:59:32.250 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2020-01-21 07:59:32.250 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2020-01-21 07:59:32.259 -05:00 [DBG] Start key discovery request
+2020-01-21 07:59:32.316 -05:00 [DBG] CORS request made for path: /connect/userinfo from origin: http://localhost:5000
+2020-01-21 07:59:32.317 -05:00 [DBG] Client list checked and origin: http://localhost:5000 is allowed
+2020-01-21 07:59:32.317 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:5000
+2020-01-21 07:59:32.323 -05:00 [DBG] CORS request made for path: /connect/userinfo from origin: http://localhost:5000
+2020-01-21 07:59:32.323 -05:00 [DBG] Client list checked and origin: http://localhost:5000 is allowed
+2020-01-21 07:59:32.323 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:5000
+2020-01-21 07:59:32.324 -05:00 [DBG] Request path /connect/userinfo matched to endpoint type Userinfo
+2020-01-21 07:59:32.326 -05:00 [DBG] Endpoint enabled: Userinfo, successfully created handler: IdentityServer4.Endpoints.UserInfoEndpoint
+2020-01-21 07:59:32.327 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.UserInfoEndpoint for /connect/userinfo
+2020-01-21 07:59:32.335 -05:00 [DBG] Start userinfo request
+2020-01-21 07:59:32.341 -05:00 [DBG] Bearer token found in header
+2020-01-21 07:59:32.428 -05:00 [DBG] client configuration validation for client js succeeded.
+2020-01-21 07:59:32.432 -05:00 [DBG] client configuration validation for client js succeeded.
+2020-01-21 07:59:32.433 -05:00 [DBG] IsActive called from: AccessTokenValidation
+2020-01-21 07:59:32.434 -05:00 [DBG] Calling into custom token validator: IdentityServer4.Validation.DefaultCustomTokenValidator
+2020-01-21 07:59:32.435 -05:00 [DBG] Token validation success
+{"ClientId":null,"ClientName":null,"ValidateLifetime":true,"AccessTokenType":"Jwt","ExpectedScope":"openid","TokenHandle":null,"JwtId":null,"Claims":{"nbf":1579611571,"exp":1580511571,"iss":"http://localhost:5093","aud":["http://localhost:5093/resources","api1"],"client_id":"js","sub":"1","auth_time":1579611571,"idp":"local","scope":["openid","profile","api1"],"amr":"pwd"},"$type":"TokenValidationLog"}
+2020-01-21 07:59:32.437 -05:00 [DBG] IsActive called from: UserInfoRequestValidation
+2020-01-21 07:59:32.443 -05:00 [DBG] Creating userinfo response
+2020-01-21 07:59:32.447 -05:00 [DBG] Scopes in access token: openid profile api1
+2020-01-21 07:59:32.450 -05:00 [DBG] Scopes in access token: openid profile api1
+2020-01-21 07:59:32.453 -05:00 [DBG] Requested claim types: sub name family_name given_name middle_name nickname preferred_username profile picture website gender birthdate zoneinfo locale updated_at
+2020-01-21 07:59:32.453 -05:00 [DBG] Scopes in access token: openid profile api1
+2020-01-21 07:59:32.453 -05:00 [DBG] Get profile called for subject 1 from client JavaScript Client with claim types ["sub","name","family_name","given_name","middle_name","nickname","preferred_username","profile","picture","website","gender","birthdate","zoneinfo","locale","updated_at"] via UserInfoEndpoint
+2020-01-21 07:59:32.455 -05:00 [DBG] Issued claims: ["name","website"]
+2020-01-21 07:59:32.455 -05:00 [INF] Profile service returned the following claim types: name website
+2020-01-21 07:59:32.455 -05:00 [DBG] End userinfo request
+2020-01-21 07:59:32.469 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-21 07:59:32.469 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-21 07:59:32.469 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-21 07:59:32.471 -05:00 [DBG] Rendering check session result
+2020-01-21 07:59:48.859 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:5000
+2020-01-21 07:59:48.859 -05:00 [DBG] Client list checked and origin: http://localhost:5000 is allowed
+2020-01-21 07:59:48.859 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:5000
+2020-01-21 07:59:48.859 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-21 07:59:48.860 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-21 07:59:48.860 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-21 07:59:48.860 -05:00 [DBG] Start discovery request
+2020-01-21 07:59:48.896 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-21 07:59:48.896 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-21 07:59:48.896 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-21 07:59:48.896 -05:00 [DBG] Rendering check session result
+2020-01-21 08:01:06.602 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-21 08:01:06.669 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-21 08:01:06.675 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-21 08:01:06.675 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-21 08:01:06.675 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-21 08:01:06.675 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-21 08:01:06.675 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-21 08:02:34.835 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-21 08:02:34.885 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-21 08:02:34.889 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-21 08:02:34.889 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-21 08:02:34.889 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-21 08:02:34.889 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-21 08:02:34.889 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-21 08:02:35.203 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:5000
+2020-01-21 08:02:35.214 -05:00 [DBG] Client list checked and origin: http://localhost:5000 is allowed
+2020-01-21 08:02:35.214 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:5000
+2020-01-21 08:02:35.267 -05:00 [DBG] Login Url: /Account/Login
+2020-01-21 08:02:35.267 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-21 08:02:35.268 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-21 08:02:35.268 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-21 08:02:35.268 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-21 08:02:35.268 -05:00 [DBG] Error Url: /home/error
+2020-01-21 08:02:35.268 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-21 08:02:35.290 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-21 08:02:35.294 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-21 08:02:35.295 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-21 08:02:35.299 -05:00 [DBG] Start discovery request
+2020-01-21 08:02:35.378 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-21 08:02:35.379 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-21 08:02:35.379 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-21 08:02:35.381 -05:00 [DBG] Rendering check session result
+2020-01-21 08:02:41.547 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-21 08:02:41.643 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-21 08:02:41.650 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-21 08:02:41.651 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-21 08:02:41.651 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-21 08:02:41.651 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-21 08:02:41.651 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-21 08:04:35.907 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:5000
+2020-01-21 08:04:35.916 -05:00 [DBG] Client list checked and origin: http://localhost:5000 is allowed
+2020-01-21 08:04:35.917 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:5000
+2020-01-21 08:04:35.997 -05:00 [DBG] Login Url: /Account/Login
+2020-01-21 08:04:35.997 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-21 08:04:35.997 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-21 08:04:35.997 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-21 08:04:35.997 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-21 08:04:35.997 -05:00 [DBG] Error Url: /home/error
+2020-01-21 08:04:35.997 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-21 08:04:36.051 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-21 08:04:36.056 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-21 08:04:36.057 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-21 08:04:36.062 -05:00 [DBG] Start discovery request
+2020-01-21 08:04:36.443 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-21 08:04:36.443 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-21 08:04:36.443 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-21 08:04:36.446 -05:00 [DBG] Rendering check session result
+2020-01-21 08:04:50.643 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:5000
+2020-01-21 08:04:50.644 -05:00 [DBG] Client list checked and origin: http://localhost:5000 is allowed
+2020-01-21 08:04:50.645 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:5000
+2020-01-21 08:04:50.645 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-21 08:04:50.646 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-21 08:04:50.646 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-21 08:04:50.647 -05:00 [DBG] Start discovery request
+2020-01-21 08:04:50.682 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-21 08:04:50.683 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-21 08:04:50.683 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-21 08:04:50.683 -05:00 [DBG] Rendering check session result
+2020-01-21 08:10:23.685 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-21 08:10:23.744 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-21 08:10:23.749 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-21 08:10:23.750 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-21 08:10:23.750 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-21 08:10:23.750 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-21 08:10:23.750 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-21 08:15:10.896 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:5000
+2020-01-21 08:15:10.910 -05:00 [DBG] Client list checked and origin: http://localhost:5000 is allowed
+2020-01-21 08:15:10.911 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:5000
+2020-01-21 08:15:11.002 -05:00 [DBG] Login Url: /Account/Login
+2020-01-21 08:15:11.002 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-21 08:15:11.002 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-21 08:15:11.002 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-21 08:15:11.002 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-21 08:15:11.002 -05:00 [DBG] Error Url: /home/error
+2020-01-21 08:15:11.002 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-21 08:15:11.031 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-21 08:15:11.035 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-21 08:15:11.035 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-21 08:15:11.040 -05:00 [DBG] Start discovery request
+2020-01-21 08:15:11.188 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-21 08:15:11.189 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-21 08:15:11.189 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-21 08:15:11.191 -05:00 [DBG] Rendering check session result
+2020-01-21 08:15:38.911 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:5000
+2020-01-21 08:15:38.911 -05:00 [DBG] Client list checked and origin: http://localhost:5000 is allowed
+2020-01-21 08:15:38.911 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:5000
+2020-01-21 08:15:38.911 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-21 08:15:38.912 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-21 08:15:38.912 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-21 08:15:38.912 -05:00 [DBG] Start discovery request
+2020-01-21 08:15:38.932 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-21 08:15:38.933 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-21 08:15:38.933 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-21 08:15:38.933 -05:00 [DBG] Rendering check session result
+2020-01-21 08:19:29.107 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-21 08:19:29.183 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-21 08:19:29.187 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-21 08:19:29.187 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-21 08:19:29.187 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-21 08:19:29.187 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-21 08:19:29.187 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-21 08:28:11.203 -05:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-21 08:28:11.292 -05:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2020-01-21 08:28:11.299 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2020-01-21 08:28:11.300 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2020-01-21 08:28:11.300 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2020-01-21 08:28:11.300 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2020-01-21 08:28:11.300 -05:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2020-01-21 08:30:33.031 -05:00 [DBG] CORS request made for path: /.well-known/openid-configuration from origin: http://localhost:5000
+2020-01-21 08:30:33.042 -05:00 [DBG] Client list checked and origin: http://localhost:5000 is allowed
+2020-01-21 08:30:33.042 -05:00 [DBG] CorsPolicyService allowed origin: http://localhost:5000
+2020-01-21 08:30:33.133 -05:00 [DBG] Login Url: /Account/Login
+2020-01-21 08:30:33.133 -05:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-21 08:30:33.133 -05:00 [DBG] Logout Url: /Account/Logout
+2020-01-21 08:30:33.133 -05:00 [DBG] ConsentUrl Url: /consent
+2020-01-21 08:30:33.133 -05:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-21 08:30:33.133 -05:00 [DBG] Error Url: /home/error
+2020-01-21 08:30:33.133 -05:00 [DBG] Error Id Parameter: errorId
+2020-01-21 08:30:33.160 -05:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-01-21 08:30:33.164 -05:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-01-21 08:30:33.164 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-01-21 08:30:33.168 -05:00 [DBG] Start discovery request
+2020-01-21 08:30:33.282 -05:00 [DBG] Request path /connect/checksession matched to endpoint type Checksession
+2020-01-21 08:30:33.287 -05:00 [DBG] Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+2020-01-21 08:30:33.288 -05:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+2020-01-21 08:30:33.289 -05:00 [DBG] Rendering check session result
