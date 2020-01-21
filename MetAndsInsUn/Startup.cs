@@ -109,14 +109,13 @@ namespace MetAndsInsUn
                 if (env.IsDevelopment())
                 {
                     // run npm process with client app
-                    spa.UseVueCli(npmScript: "serve", port: 8080);
+                    spa.UseVueCli(npmScript: "serve", port: 5000);
                     // if you just prefer to proxy requests from client app, use proxy to SPA dev server instead:
                     // app should be already running before starting a .NET client
                     // spa.UseProxyToSpaDevelopmentServer("http://localhost:8080"); // your Vue app port
                 }
             });
         }
-
 
     }
 }

@@ -22,6 +22,14 @@
 //      }
 //    }
 //  }
+chainWebpack: (config) => {
+    config.plugin('define').tap((definitions) => {
+      definitions[0]['process.env']['ASSET_PATH'] = JSON.stringify(process.env.NODE_ENV === 'production'
+      ? '/metins/'
+      : '/');
+      return definitions;
+    });
+  },
 publicPath: process.env.NODE_ENV === 'production'
     ? '/metins/'
     : '/'

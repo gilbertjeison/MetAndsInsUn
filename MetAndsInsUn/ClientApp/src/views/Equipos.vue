@@ -608,8 +608,8 @@ export default class EquiposView extends Vue {
 
   private newEquipo:Equipos = this.emptyEquipo();
   private newCal = {tipo:'',idUsuario:0,observaciones:''};
-  private imageBase = window.location.origin + '/api/Equipos/image?image=';
-  private fileBase = window.location.origin + '/api/Equi;pos/file?file='
+  private imageBase = this.getEnvUrl() + '/api/Equipos/image?image=';
+  private fileBase = this.getEnvUrl() + '/api/Equipos/file?file='
   private imgMet = 'ico_met_2.jpg';
   private imgIns = 'ico_instru.png';
   private fileList = [];
@@ -1053,8 +1053,9 @@ export default class EquiposView extends Vue {
   }
   
   private downloadFile(file){
-   
-    window.open( window.location.origin + '/api/Equipos/file?file=' + file, '_blank');
+    
+      window.open( this.getEnvUrl() + process.env.ASSET_PATH + 'api/Equipos/file?file=' + file, '_blank');
+       
   }
 
   private async deleteItem(item){
@@ -1080,6 +1081,16 @@ export default class EquiposView extends Vue {
       
     
     }      
+  }
+
+  private getEnvUrl(){
+    if (process.env.NODE_ENV === 'production') {
+      return window.location.origin;
+    }
+    else{
+       return 'http://localhost:5002';
+    }
+   
   }
 }
 

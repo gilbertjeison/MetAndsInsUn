@@ -149,13 +149,13 @@ namespace IdentityServer
                     UpdateAccessTokenClaimsOnRefresh = true,
                     RequireConsent = false,
 
-                    //RedirectUris =           { redirect_dev, silent_redirect_dev },
-                    //PostLogoutRedirectUris = { post_logout_dev },
-                    //AllowedCorsOrigins =     { allowed_cors_dev },
+                    RedirectUris =           { redirect_dev, silent_redirect_dev },
+                    PostLogoutRedirectUris = { post_logout_dev },
+                    AllowedCorsOrigins =     { allowed_cors_dev },
 
-                    RedirectUris =           { redirect_loc, silent_redirect_loc },
-                    PostLogoutRedirectUris = { post_logout_loc },
-                    AllowedCorsOrigins =     { allowed_cors_loc },
+                    //RedirectUris =           { redirect_loc, silent_redirect_loc },
+                    //PostLogoutRedirectUris = { post_logout_loc },
+                    //AllowedCorsOrigins =     { allowed_cors_loc },
 
                     //RedirectUris =           { redirect_prod, silent_redirect_prod },
                     //PostLogoutRedirectUris = { post_logout_prod },
