@@ -285,12 +285,13 @@ namespace MetAndsInsUn.Controllers
                         {
                             // Try to create the directory.
                             Directory.CreateDirectory(PathWithFolderName);
-                        }                       
+                        }
 
                         //Guardar imagen en el directorio dado, si ya existe, se remplaza
                         //Tener en cuenta que si la imagen cambia, se elimina la anterior
                         //Ver si las imagenes son diferentes
-                        if (!formFile.FileName.Trim().Equals(eqEdit.ImagePath.Trim()))
+                        
+                        if (!formFile.FileName.Trim().Equals(eqEdit.ImagePath.Trim()) && !eqEdit.ImagePath.Trim().Equals(""))
                         {
                             //Eliminar imagen anterior
                             System.IO.File.Delete(PathWithFolderName + "/" + eqEdit.ImagePath);
@@ -339,7 +340,7 @@ namespace MetAndsInsUn.Controllers
             }
             catch (Exception ex)
             {
-                code = 1;
+                code = -1;
                 message = "ERROR " + ex.ToString();
                 return Ok(new { code, message });
             }

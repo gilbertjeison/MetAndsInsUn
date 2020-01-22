@@ -608,8 +608,8 @@ export default class EquiposView extends Vue {
 
   private newEquipo:Equipos = this.emptyEquipo();
   private newCal = {tipo:'',idUsuario:0,observaciones:''};
-  private imageBase = this.getEnvUrl() + '/api/Equipos/image?image=';
-  private fileBase = this.getEnvUrl() + '/api/Equipos/file?file='
+  private imageBase = this.getEnvUrl() + 'api/Equipos/image?image=';
+  private fileBase = this.getEnvUrl() + 'api/Equipos/file?file='
   private imgMet = 'ico_met_2.jpg';
   private imgIns = 'ico_instru.png';
   private fileList = [];
@@ -752,6 +752,7 @@ export default class EquiposView extends Vue {
       //Verificar si hay imagen    
       if (this.numImages > 0) 
       {
+        
         //Verificar que la imagen no sea la de referencia
         if (this.newEquipo.imagePath == this.imgMet 
               || this.newEquipo.imagePath == this.imgIns) {
@@ -824,7 +825,7 @@ export default class EquiposView extends Vue {
   
   private async addAttachment(data)
   {  
-    console.log('Se envía data con imagen '+this.isAdding);  
+    console.log('Se envía data con imagen ');  
     var params ={data:data, image:true};
     if (this.isAdding) {
       await this.addEquipoAsync(params).then( (r) => {
@@ -1054,7 +1055,7 @@ export default class EquiposView extends Vue {
   
   private downloadFile(file){
     
-      window.open( this.getEnvUrl() + process.env.ASSET_PATH + 'api/Equipos/file?file=' + file, '_blank');
+      window.open( this.getEnvUrl() +'api/Equipos/file?file=' + file, '_blank');
        
   }
 
@@ -1085,7 +1086,7 @@ export default class EquiposView extends Vue {
 
   private getEnvUrl(){
     if (process.env.NODE_ENV === 'production') {
-      return window.location.origin;
+      return window.location.origin + process.env.ASSET_PATH;
     }
     else{
        return 'http://localhost:5002';
